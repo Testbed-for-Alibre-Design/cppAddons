@@ -1,0 +1,13 @@
+<AlibreDesignAddOn specificationVersion="1" friendlyName="Sample Addon - DX Triangle">
+   <Author name="Alibre Inc." link="http://www.alibre.com" />
+   <DLL loadedWhen="Startup" location="ADSampleAddOnDX.dll"/>
+   <Copyright>All rights reserved.</Copyright>
+   <Icon location="ADSampleAddOnDX.ico"/> 
+   <PersistentData StreamName=""/>
+   <Menu text="Sample Addon - DX Triangle"/>
+   <Description>Sample AddOn for DX Device</Description> 
+   <Workspace type="Part"/>
+   <Property name="Identifier" value="{D05E1217-21A7-4e37-A302-398AA1BDDD7E}"/>
+   <MenuFile loadedWhen="Startup"/>
+</AlibreDesignAddOn>
+ 

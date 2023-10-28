@@ -1,0 +1,12 @@
+<AlibreDesignAddOn specificationVersion="1" friendlyName="Selection Sample AddOn">
+   <Author name="Alibre Inc" link="http://www.alibre.com"/>
+   <DLL loadedWhen="Startup" location="SampleAddOn.dll"/>
+   <Copyright> All rights reserved.</Copyright>
+   <Icon location="TestSampleAddOn.ico"/> 
+   <Menu text="Test Sample AddOn"/>
+   <Description>Test Sample AddOn</Description> 
+   <Workspace type="Always"/>
+   <PersistentData StreamName="TestSampleAddOn_Data"/>
+   <Property name="Identifier" value="{3B769D4E-5222-4066-9608-8B4CF93671DD}"/>
+   <MenuFile loadedWhen="Startup"/>
+</AlibreDesignAddOn>

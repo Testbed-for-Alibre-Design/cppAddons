@@ -1,0 +1,13 @@
+<AlibreDesignAddOn specificationVersion="1" friendlyName="Animation Sample">
+   <Author name="Alibre Inc." link="http://www.alibre.com" />
+   <DLL loadedWhen="Startup" location="SampleAddOn.dll"/>
+   <Copyright>All rights reserved.</Copyright>
+   <Icon location="SampleAddOn.ico"/> 
+   <PersistentData StreamName="AnimationAddOn_Data"/>
+   <Menu text="Animation Sample"/>
+   <Description>Animation Sample AddOn</Description> 
+   <Workspace type="Assembly"/>
+   <Property name="Identifier" value="{B54F7B88-BECD-46af-8E70-651DEBB180A9}"/>
+   <MenuFile loadedWhen="Startup"/>
+</AlibreDesignAddOn>
+ 
